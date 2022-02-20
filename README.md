@@ -1,4 +1,10 @@
 # runoff-modelling
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/38667147/154864849-9987f979-176a-4c88-8952-e31b32f39aed.png" />
+</p>
+
+
 Implementation of single flow (no dispersion) run off modelling using a Least Cost Paths algorithm to solve flats and sinks.
 The code was written in Python first and then rewritten in CPP.
 
